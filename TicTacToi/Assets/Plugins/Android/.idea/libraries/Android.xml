@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/androidx.arch.core.core-common-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/androidx.collection.collection-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/androidx.annotation.annotation-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/androidx.lifecycle.lifecycle-common-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<projectSettings>
+  <projectSetting name="com.google.external-dependency-managerAnalyticsCookie" value="4f3f82af104745d6ab715d5256c7c35d" />
+  <projectSetting name="com.google.external-dependency-managerAnalyticsEnabled" value="True" />
+  <projectSetting name="Google.IOSResolver.AutoPodToolInstallInEditor" value="True" />
+  <projectSetting name="Google.IOSResolver.CocoapodsIntegrationMethod" value="2" />
+  <projectSetting name="Google.IOSResolver.PodfileEnabled" value="False" />
+  <projectSetting name="Google.IOSResolver.PodToolExecutionViaShellEnabled" value="True" />
+  <projectSetting name="Google.IOSResolver.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="Google.PackageManagerResolver.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="GooglePlayServices.PromptBeforeAutoResolution" value="False" />
+  <projectSetting name="GooglePlayServices.UseJetifier" value="True" />
+</projectSettings>
